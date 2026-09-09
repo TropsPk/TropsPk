@@ -1,19 +1,21 @@
 <div align="center">
-  <!-- Insert your thunder strike logo here -->
-  <img src="link-to-your-logo.png" width="200" alt="TropsPk Logo">
-  
-  # Hi, I'm TropsPk ⚡
-  
-  **Kernel Developer**
+
+# Hi, I'm TropsPk ⚡
+### Kernel Developer
+
 </div>
 
 ---
 
-### 🚀 Projects
-*   **[tropsi x kernel](link-to-repo):** [Insert a brief, one-sentence description of the kernel's main focus, such as performance, stability, or battery optimization.]
+### 🚀 Core Project
 
-### 🛠️ Languages & Tools
-*   C, Bash, Makefile
-*   Git, GCC, Clang
-*   Linux Environment
+**tropsi x kernel**
+> A minimalist and highly optimized custom kernel built to deliver a perfect balance of raw performance, improved battery efficiency, and rock-solid system stability.
 
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** C, Bash, Python
+* **Build Tools:** Makefile, GCC, Clang
+* **Environment:** Linux, Git
+
+---
