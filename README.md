@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <!-- Insert your thunder strike logo here -->
+  <img src="link-to-your-logo.png" width="200" alt="TropsPk Logo">
+  
+  # Hi, I'm TropsPk ⚡
+  
+  **Kernel Developer**
+</div>
 
-<!--
-**TropsPk/TropsPk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Projects
+*   **[tropsi x kernel](link-to-repo):** [Insert a brief, one-sentence description of the kernel's main focus, such as performance, stability, or battery optimization.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+*   C, Bash, Makefile
+*   Git, GCC, Clang
+*   Linux Environment
+
