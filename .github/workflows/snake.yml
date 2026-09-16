@@ -8,12 +8,22 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
 
+  # regenerate whenever main changes
+  push:
+    branches:
+      - main
+
+# Required since GitHub now defaults new repos' Actions token to read-only,
+# which silently breaks the push-to-"output"-branch step below.
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -26,7 +36,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
