@@ -22,10 +22,10 @@
 <details>
 <summary><b>🔧 Tropsi X Kernel</b></summary>
 <br>
-Minimalist, highly optimized custom kernel for the OnePlus 8 series (SM8250) — tuned for the balance of performance, battery life, and stability, with KernelSU Next support.
+Minimalist, highly optimized custom kernel supporting the OnePlus 8, 8 Pro, 8T, and 9R — tuned for the balance of performance, battery life, and stability, with ReSukiSU support.
 <br><br>
 <img src="https://img.shields.io/badge/SM8250-00D9FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/KernelSU_Next-7B2FF7?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ReSukiSU-7B2FF7?style=flat-square&labelColor=0D1117" />
 </details>
 
 <details>
@@ -33,8 +33,9 @@ Minimalist, highly optimized custom kernel for the OnePlus 8 series (SM8250) —
 <br>
 Custom recovery development unifying OnePlus 8 and 8 Pro into one tree, with support for decrypting userdata on stock firmware.
 <br><br>
-<img src="https://img.shields.io/badge/OnePlus_8-00FF9D?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OnePlus_8_Pro-00FF9D?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-EB0028?style=flat-square&logo=oneplus&logoColor=white&labelColor=EB0028" />
+<img src="https://img.shields.io/badge/OnePlus_8-EB0028?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OnePlus_8_Pro-EB0028?style=flat-square&labelColor=0D1117" />
 </details>
 
 <details>
@@ -59,7 +60,7 @@ Comparative analysis of Qualcomm SM8250 kernel trees (CAF, LineageOS, OEM) to gu
   <img src="https://img.shields.io/badge/GIT-00FF9D?style=for-the-badge&logo=git&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/GNU%20GCC-00D9FF?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-7B2FF7?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/KernelSU-00FF9D?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ReSukiSU-00FF9D?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 ---
