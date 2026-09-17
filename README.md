@@ -25,7 +25,7 @@ tropspk@kernel-dev
 Focus       · Custom Android kernel & recovery development
 Flagship    · Tropsi X Kernel (Qualcomm SM8250 / OnePlus 8 series)
 Root        · KernelSU Next integration
-Recovery    · TWRP + OrangeFox device trees (instantnoodlep, opkona)
+Recovery    · Unified recovery for OnePlus 8 / 8 Pro, stock data decryption
 Toolchain   · Clang / GCC, AnyKernel3 packaging
 Pipeline    · GitHub Actions — automated build & sync workflows
 Priorities  · Raw performance · Battery efficiency · Stability
@@ -41,8 +41,7 @@ Languages   · C · Bash · Python
 | Project | Description |
 |:--|:--|
 | **Tropsi X Kernel** | Minimalist, highly optimized custom kernel for the OnePlus 8 series (SM8250) — built for a perfect balance of performance, battery life, and system stability, with KernelSU Next support |
-| **TWRP — instantnoodlep** | Ongoing work adapting the OnePlus 8 Pro TWRP device tree to target newer stock OxygenOS firmware |
-| **OrangeFox — opkona** | Fork of the OnePlus Kona-series OrangeFox recovery device tree, built via a custom CI pipeline |
+| **Unified Recovery — OnePlus 8 / 8 Pro** | Custom recovery development unifying OnePlus 8 and 8 Pro into one tree, with support for decrypting userdata on stock firmware |
 | **SM8250 Kernel Research** | Comparative analysis of Qualcomm SM8250 kernel trees (CAF, LineageOS, OEM) to guide upstream sync work |
 
 </div>
@@ -88,8 +87,6 @@ Languages   · C · Bash · Python
 </div>
 
 ---
-
-### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
