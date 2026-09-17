@@ -17,34 +17,33 @@
 
 ---
 
-### `$ fastfetch`
-
-```yaml
-tropspk@kernel-dev
-────────────────────────────────────────
-Focus       · Custom Android kernel & recovery development
-Flagship    · Tropsi X Kernel (Qualcomm SM8250 / OnePlus 8 series)
-Root        · KernelSU Next integration
-Recovery    · Unified recovery for OnePlus 8 / 8 Pro, stock data decryption
-Toolchain   · Clang / GCC, AnyKernel3 packaging
-Pipeline    · GitHub Actions — automated build & sync workflows
-Priorities  · Raw performance · Battery efficiency · Stability
-Languages   · C · Bash · Python
-```
-
----
-
 ### 🚀 Projects
 
-<div align="center">
-
-| Project | Description |
-|:--|:--|
-| **Tropsi X Kernel** | Minimalist, highly optimized custom kernel for the OnePlus 8 series (SM8250) — built for a perfect balance of performance, battery life, and system stability, with KernelSU Next support |
-| **Unified Recovery — OnePlus 8 / 8 Pro** | Custom recovery development unifying OnePlus 8 and 8 Pro into one tree, with support for decrypting userdata on stock firmware |
-| **SM8250 Kernel Research** | Comparative analysis of Qualcomm SM8250 kernel trees (CAF, LineageOS, OEM) to guide upstream sync work |
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h4>🔧 Tropsi X Kernel</h4>
+      <sub>Minimalist, highly optimized custom kernel for the OnePlus 8 series (SM8250) — tuned for the balance of performance, battery life, and stability, with KernelSU Next support</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SM8250-00D9FF?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/KernelSU_Next-7B2FF7?style=flat-square&labelColor=0D1117" />
+    </td>
+    <td align="center" width="33%">
+      <h4>🔐 Unified Recovery</h4>
+      <sub>Custom recovery development unifying OnePlus 8 and 8 Pro into one tree, with support for decrypting userdata on stock firmware</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OnePlus_8-00FF9D?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/OnePlus_8_Pro-00FF9D?style=flat-square&labelColor=0D1117" />
+    </td>
+    <td align="center" width="33%">
+      <h4>📊 SM8250 Kernel Research</h4>
+      <sub>Comparative analysis of Qualcomm SM8250 kernel trees (CAF, LineageOS, OEM) to guide upstream sync work</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CAF-7B2FF7?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/LineageOS-00D9FF?style=flat-square&labelColor=0D1117" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,7 +91,7 @@ Languages   · C · Bash · Python
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TropsPk/TropsPk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TropsPk/TropsPk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TropsPk/TropsPk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TropsPk/TropsPk/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
