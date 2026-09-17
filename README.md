@@ -33,7 +33,7 @@ Minimalist, highly optimized custom kernel supporting the OnePlus 8, 8 Pro, 8T, 
 <br>
 Custom recovery development unifying OnePlus 8 and 8 Pro into one tree, with support for decrypting userdata on stock firmware.
 <br><br>
-<img src="https://img.shields.io/badge/-EB0028?style=flat-square&logo=oneplus&logoColor=white&labelColor=EB0028" />
+<img src="https://img.shields.io/badge/-EB0028?style=flat-square&logo=oneplus&logoColor=white&labelColor=EB0028" width="32" height="32" />
 <img src="https://img.shields.io/badge/OnePlus_8-EB0028?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/OnePlus_8_Pro-EB0028?style=flat-square&labelColor=0D1117" />
 </details>
