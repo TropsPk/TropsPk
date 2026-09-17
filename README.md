@@ -19,31 +19,32 @@
 
 ### 🚀 Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h4>🔧 Tropsi X Kernel</h4>
-      <sub>Minimalist, highly optimized custom kernel for the OnePlus 8 series (SM8250) — tuned for the balance of performance, battery life, and stability, with KernelSU Next support</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/SM8250-00D9FF?style=flat-square&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/KernelSU_Next-7B2FF7?style=flat-square&labelColor=0D1117" />
-    </td>
-    <td align="center" width="33%">
-      <h4>🔐 Unified Recovery</h4>
-      <sub>Custom recovery development unifying OnePlus 8 and 8 Pro into one tree, with support for decrypting userdata on stock firmware</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/OnePlus_8-00FF9D?style=flat-square&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/OnePlus_8_Pro-00FF9D?style=flat-square&labelColor=0D1117" />
-    </td>
-    <td align="center" width="33%">
-      <h4>📊 SM8250 Kernel Research</h4>
-      <sub>Comparative analysis of Qualcomm SM8250 kernel trees (CAF, LineageOS, OEM) to guide upstream sync work</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/CAF-7B2FF7?style=flat-square&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/LineageOS-00D9FF?style=flat-square&labelColor=0D1117" />
-    </td>
-  </tr>
-</table>
+<details>
+<summary><b>🔧 Tropsi X Kernel</b></summary>
+<br>
+Minimalist, highly optimized custom kernel for the OnePlus 8 series (SM8250) — tuned for the balance of performance, battery life, and stability, with KernelSU Next support.
+<br><br>
+<img src="https://img.shields.io/badge/SM8250-00D9FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/KernelSU_Next-7B2FF7?style=flat-square&labelColor=0D1117" />
+</details>
+
+<details>
+<summary><b>🔐 Unified Recovery — OnePlus 8 / 8 Pro</b></summary>
+<br>
+Custom recovery development unifying OnePlus 8 and 8 Pro into one tree, with support for decrypting userdata on stock firmware.
+<br><br>
+<img src="https://img.shields.io/badge/OnePlus_8-00FF9D?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OnePlus_8_Pro-00FF9D?style=flat-square&labelColor=0D1117" />
+</details>
+
+<details>
+<summary><b>📊 SM8250 Kernel Research</b></summary>
+<br>
+Comparative analysis of Qualcomm SM8250 kernel trees (CAF, LineageOS, OEM) to guide upstream sync work.
+<br><br>
+<img src="https://img.shields.io/badge/CAF-7B2FF7?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LineageOS-00D9FF?style=flat-square&labelColor=0D1117" />
+</details>
 
 ---
 
