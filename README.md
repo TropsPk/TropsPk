@@ -2,9 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:22D3EE&height=200&section=header&text=Welcome&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=To%20my%20GitHub%20profile&descSize=18&descAlignY=60" width="100%" />
 
-<p lang="ur" dir="rtl">
-  <b>👋 السلام علیکم، میں محمد عمار ہوں</b><br/>
-  <sub dir="ltr">@TropsPk</sub>
+<p>
+  <b>👋 Assalamualaikum, I'm</b><br/>
+  <img src="https://raw.githubusercontent.com/TropsPk/TropsPk/main/assets/muhammad-ammar.svg" width="240" alt="محمد عمار" /><br/>
+  <sub>@TropsPk</sub>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=40&lines=Kernel+Developer;Recovery+Developer;Keeping+Old+Flagships+Alive" alt="Kernel Developer, Recovery Developer, Keeping Old Flagships Alive" />
