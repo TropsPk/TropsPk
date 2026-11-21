@@ -4,10 +4,8 @@
 
 <p>
   <b>👋 Hey, I'm Trops</b><br/>
-  <sub>Android developer from Pakistan 🇵🇰</sub>
+  <sub>Kernel Developer · Recovery Developer · Pakistan 🇵🇰</sub>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=420&height=30&lines=Custom+Kernels;Custom+Recoveries;Keeping+Old+Flagships+Alive" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/From-Pakistan-01411C?style=flat-square&labelColor=0F172A" />
@@ -17,15 +15,8 @@
 
 <p>
   <b>🌍 About Me</b><br/>
-  I'm from <b>Pakistan</b>. I started development because there is <b>no support</b> for <b>old flagship devices</b>, so I build custom kernels and recoveries to keep them alive.
+  I'm from <b>Pakistan</b>. I started development because there is <b>no support</b> for <b>old flagship devices</b>, so I became a <b>kernel developer</b> and <b>recovery developer</b> to keep them alive.
 </p>
-
-<table>
-  <tr>
-    <td align="center"><b>🧠 Kernels</b><br/><sub>Tuned for speed,<br/>battery &amp; stability</sub></td>
-    <td align="center"><b>🔐 Recoveries</b><br/><sub>Custom builds with<br/>stock decryption</sub></td>
-  </tr>
-</table>
 
 <p>
   <b>⭐ Featured Project</b><br/>
@@ -54,6 +45,21 @@
 <p>
   <a href="https://t.me/TropsiXKernel"><img src="https://img.shields.io/badge/Telegram-%40TropsiXKernel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
+
+<p>
+  <b>💚 Support My Work</b><br/>
+  <sub>If you like what I build, you can support me</sub>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/USDT-TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white" />
+</p>
+
+```
+TTL3HHUeyfDTXZ5RFqDr4Q379f8DXUJtjb
+```
+
+<sub>⚠️ TRC20 network only</sub>
 
 <p>
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=TropsPk&show_icons=true&hide_border=true&border_radius=12&bg_color=0F172A&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" />
