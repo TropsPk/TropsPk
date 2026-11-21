@@ -20,9 +20,9 @@
 ### 🚀 Projects
 
 <details>
-<summary><b>🔧 Tropsi X Kernel</b></summary>
+<summary><b>⚡ Tropsi-X Kernel</b></summary>
 <br>
-Minimalist, highly optimized custom kernel supporting the OnePlus 8, 8 Pro, 8T, and 9R — tuned for the balance of performance, battery life, and stability, with ReSukiSU support.
+🔥 Where Stability Meets Speed
 <br><br>
 <img src="https://img.shields.io/badge/SM8250-00D9FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/ReSukiSU-7B2FF7?style=flat-square&labelColor=0D1117" />
