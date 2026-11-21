@@ -1,104 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:00FF9D&height=200&section=header&text=TropsPk&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kernel%20Developer%20%E2%80%A2%20Performance%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,55:1E40AF,100:67E8F9&height=200&section=header&text=TropsPk&fontSize=62&fontColor=E0F7FF&fontAlignY=42&desc=%F0%9F%92%8E%20Kernel%20%26%20Recovery%20Engineer&descSize=18&descAlignY=68&stroke=A5F3FC&strokeWidth=1" width="100%" />
 
-<a href="https://github.com/TropsPk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Custom+Android+Kernels;Maintainer+of+Tropsi+X+Kernel;Unified+Recovery+Development;Optimizing+Performance+%26+Battery+Life;C+%E2%80%A2+Bash+%E2%80%A2+Python" alt="Typing SVG" />
-</a>
+# [⚡ Tropsi-X Kernel](https://github.com/TropsPk/Tropsi_X_Kernel_SM8250)
+### 🔥 Where Stability Meets Speed
+
+<sub>OnePlus 8 &nbsp;·&nbsp; OnePlus 8 Pro &nbsp;·&nbsp; Snapdragon 865 (SM8250)</sub>
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/TropsPk?label=Followers&style=for-the-badge&color=7B2FF7&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=TropsPk&style=for-the-badge&color=00D9FF&labelColor=0D1117&label=PROFILE+VIEWS" />
-<img src="https://ghstats.dev/api/mini?username=TropsPk&metric=stars&style=for-the-badge&color=00FF9D" />
-<img src="https://ghstats.dev/api/mini?username=TropsPk&metric=commits&style=for-the-badge&color=00D9FF" />
+<a href="https://github.com/TropsPk/Tropsi_X_Kernel_SM8250"><img src="https://img.shields.io/badge/VIEW%20KERNEL-%E2%86%92-67E8F9?style=for-the-badge&logo=github&logoColor=0B1020&labelColor=0B1020" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/TropsPk?style=for-the-badge&label=Followers&color=1E40AF&labelColor=0B1020" />
+<img src="https://img.shields.io/github/stars/TropsPk?style=for-the-badge&label=Stars&color=67E8F9&labelColor=0B1020" />
+<img src="https://komarev.com/ghpvc/?username=TropsPk&style=for-the-badge&label=Views&color=A5F3FC&labelColor=0B1020" />
 
 </div>
 
----
+<br/>
 
-### 🚀 Projects
+<table align="center">
+  <tr>
+    <td align="center" width="200"><h3>🧠</h3><b>Kernels</b><br/><sub>Tuned for speed,<br/>battery &amp; stability</sub></td>
+    <td align="center" width="200"><h3>🔐</h3><b>Recoveries</b><br/><sub>Custom builds with<br/>stock decryption</sub></td>
+    <td align="center" width="200"><h3>⚙️</h3><b>Device Trees</b><br/><sub>Clean, modern,<br/>Android 16-ready</sub></td>
+  </tr>
+</table>
 
-<details>
-<summary><b>⚡ Tropsi-X Kernel</b></summary>
-<br>
-🔥 Where Stability Meets Speed
-<br><br>
-<img src="https://img.shields.io/badge/SM8250-00D9FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/ReSukiSU-7B2FF7?style=flat-square&labelColor=0D1117" />
-</details>
-
-<details>
-<summary><b>🔐 Unified Recovery — OnePlus 8 / 8 Pro</b></summary>
-<br>
-Custom recovery development unifying OnePlus 8 and 8 Pro into one tree, with support for decrypting userdata on stock firmware.
-<br><br>
-<img src="https://img.shields.io/badge/-EB0028?style=flat-square&logo=oneplus&logoColor=white&labelColor=EB0028&logoSize=auto" width="20" height="20" />
-<img src="https://img.shields.io/badge/OnePlus_8-EB0028?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OnePlus_8_Pro-EB0028?style=flat-square&labelColor=0D1117" />
-</details>
-
-<details>
-<summary><b>📊 SM8250 Kernel Research</b></summary>
-<br>
-Comparative analysis of Qualcomm SM8250 kernel trees (CAF, LineageOS, OEM) to guide upstream sync work.
-<br><br>
-<img src="https://img.shields.io/badge/CAF-7B2FF7?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LineageOS-00D9FF?style=flat-square&labelColor=0D1117" />
-</details>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00D9FF?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Python-7B2FF7?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Shell_Script-00FF9D?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Linux-00D9FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Android-7B2FF7?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GIT-00FF9D?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GNU%20GCC-00D9FF?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-7B2FF7?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ReSukiSU-00FF9D?style=for-the-badge&labelColor=0D1117" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=TropsPk&theme=tokyonight&show_emoji=true" />
-</div>
-
-<div align="center">
-  <img src="https://ghstats.dev/api/langs?username=TropsPk&theme=tokyonight&layout=donut" />
-</div>
-
----
-
-### 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TropsPk&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FF7&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=808080&currStreakNum=e6edf3&sideNums=e6edf3" />
-</div>
-
-<div align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=TropsPk&days=30&width=500&line_color=00D9FF&fill_color=7B2FF7" />
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TropsPk/TropsPk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TropsPk/TropsPk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TropsPk/TropsPk/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,50:7B2FF7,100:00D9FF&height=130&section=footer" width="100%" />
+<img src="https://img.shields.io/badge/C-67E8F9?style=for-the-badge&logo=c&logoColor=0B1020&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Python-A5F3FC?style=for-the-badge&logo=python&logoColor=0B1020&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Bash-E0F2FE?style=for-the-badge&logo=gnubash&logoColor=0B1020&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Linux-67E8F9?style=for-the-badge&logo=linux&logoColor=0B1020&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Android-A5F3FC?style=for-the-badge&logo=android&logoColor=0B1020&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/GitHub_Actions-E0F2FE?style=for-the-badge&logo=githubactions&logoColor=0B1020&labelColor=0B1020" />
+
+<br/><br/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=TropsPk&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A5F3FC&text_color=E0F2FE" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TropsPk&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=E0F2FE" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TropsPk&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=8" />
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:67E8F9,55:1E40AF,100:0B1020&height=90&section=footer" width="100%" />
 
 </div>
