@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:22D3EE&height=200&section=header&text=Welcome&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=To%20my%20GitHub%20profile&descSize=18&descAlignY=60" width="100%" />
 
-<p><b>👋 Hey, I'm Trops</b></p>
+<p lang="ur" dir="rtl">
+  <b>👋 السلام علیکم، میں محمد عمار ہوں</b><br/>
+  <sub dir="ltr">@TropsPk</sub>
+</p>
 
-<a href="https://github.com/TropsPk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=420&height=30&lines=Kernel+Developer;Recovery+Developer;Keeping+Old+Flagships+Alive" alt="Kernel Developer · Recovery Developer · Keeping Old Flagships Alive" width="420" height="30" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=40&lines=Kernel+Developer;Recovery+Developer;Keeping+Old+Flagships+Alive" alt="Kernel Developer, Recovery Developer, Keeping Old Flagships Alive" />
 
 <p>
   <img src="https://img.shields.io/badge/From-Pakistan-01411C?style=flat-square&labelColor=0F172A" />
@@ -33,12 +34,12 @@
 <p><b>🛠️ Tools I Use</b></p>
 
 <p>
-  <img src="https://img.shields.io/badge/C-0891B2?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-0891B2?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-0891B2?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-6D28D9?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-0891B2?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-0891B2?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-6D28D9?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-0891B2?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-6D28D9?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 <p><b>📬 Connect With Me</b></p>
