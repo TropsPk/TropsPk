@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:22D3EE&height=200&section=header&text=Welcome&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=To%20my%20GitHub%20profile&descSize=18&descAlignY=60" width="100%" />
 
-<p>
-  <b>👋 Hey, I'm Trops</b><br/>
-  <sub>Kernel Developer · Recovery Developer · Pakistan 🇵🇰</sub>
-</p>
+<p><b>👋 Hey, I'm Trops</b></p>
+
+<a href="https://github.com/TropsPk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=420&height=30&lines=Kernel+Developer;Recovery+Developer;Keeping+Old+Flagships+Alive" alt="Kernel Developer · Recovery Developer · Keeping Old Flagships Alive" width="420" height="30" />
+</a>
 
 <p>
   <img src="https://img.shields.io/badge/From-Pakistan-01411C?style=flat-square&labelColor=0F172A" />
