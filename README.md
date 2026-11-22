@@ -61,11 +61,13 @@
   <img src="https://img.shields.io/badge/USDT-TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white" />
 </p>
 
-```
-TTL3HHUeyfDTXZ5RFqDr4Q379f8DXUJtjb
-```
+<p>
+  <code>TTL3HHUeyfDTXZ5RFqDr4Q379f8DXUJtjb</code>
+</p>
 
-<sub>⚠️ TRC20 network only</sub>
+<p>
+  <sub>⚠️ TRC20 network only</sub>
+</p>
 
 <img src="https://raw.githubusercontent.com/TropsPk/TropsPk/main/assets/sections/stats.svg" width="400" alt="GitHub Stats" />
 
