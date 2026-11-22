@@ -1,21 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 44" width="400" height="44" role="img" aria-labelledby="t">
   <title id="t">Support My Work</title>
   <defs>
-    <linearGradient id="tx" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="197.35" y2="0">
-      <stop offset="0" stop-color="#D97706"/><stop offset="1" stop-color="#F59E0B"/>
+    <linearGradient id="tx" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="131.57" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#EA580C"/><stop offset="0.33" stop-color="#F59E0B"/><stop offset="0.66" stop-color="#E11D48"/><stop offset="1" stop-color="#EA580C"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="131.57 0" dur="3.2s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="ll" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="79" y2="0">
-      <stop offset="0" stop-color="#D97706" stop-opacity="0"/><stop offset="1" stop-color="#D97706"/>
+    <linearGradient id="ll" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="118" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#EA580C"/><stop offset="0.33" stop-color="#F59E0B"/><stop offset="0.66" stop-color="#E11D48"/><stop offset="1" stop-color="#EA580C"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="110 0" dur="3.2s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="rl" gradientUnits="userSpaceOnUse" x1="321" y1="0" x2="392" y2="0">
-      <stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    <linearGradient id="rl" gradientUnits="userSpaceOnUse" x1="282" y1="0" x2="392" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#EA580C"/><stop offset="0.33" stop-color="#F59E0B"/><stop offset="0.66" stop-color="#E11D48"/><stop offset="1" stop-color="#EA580C"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="-110 0" dur="3.2s" repeatCount="indefinite"/>
     </linearGradient>
+    <linearGradient id="fl" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="73" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.7" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="fr" gradientUnits="userSpaceOnUse" x1="327" y1="0" x2="392" y2="0">
+      <stop offset="0.3" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="ml" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="44"><rect x="8" y="0" width="65" height="44" fill="url(#fl)"/></mask>
+    <mask id="mr" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="44"><rect x="327" y="0" width="65" height="44" fill="url(#fr)"/></mask>
   </defs>
   <g shape-rendering="geometricPrecision">
-    <rect x="8" y="21" width="65" height="2" fill="url(#ll)"/>
-    <rect x="327" y="21" width="65" height="2" fill="url(#rl)"/>
-    <path d="M75 18 L79 22 L75 26 L71 22 Z" fill="#D97706"/>
-    <path d="M325 18 L329 22 L325 26 L321 22 Z" fill="#F59E0B"/>
+    <rect x="8" y="21" width="65" height="2" fill="url(#ll)" mask="url(#ml)"/>
+    <rect x="327" y="21" width="65" height="2" fill="url(#rl)" mask="url(#mr)"/>
+    <g transform="translate(75 22)"><path d="M0 -4 L4 0 L0 4 L-4 0Z" fill="#EA580C"><animate attributeName="fill" values="#EA580C;#F59E0B;#E11D48;#EA580C" dur="3.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="1;1.5;1" dur="1.6s" repeatCount="indefinite"/></path></g>
+    <g transform="translate(325 22)"><path d="M0 -4 L4 0 L0 4 L-4 0Z" fill="#E11D48"><animate attributeName="fill" values="#E11D48;#EA580C;#F59E0B;#E11D48" dur="3.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="1.5;1;1.5" dur="1.6s" repeatCount="indefinite"/></path></g>
     <path transform="translate(101.33 27.95)" d="M0.71 -3.57H3.81Q3.88 -2.91 4.27 -2.56Q4.66 -2.21 5.29 -2.21Q5.93 -2.21 6.31 -2.51Q6.68 -2.81 6.68 -3.33Q6.68 -3.77 6.38 -4.06Q6.09 -4.35 5.65 -4.54Q5.22 -4.73 4.42 -4.96Q3.26 -5.32 2.53 -5.68Q1.8 -6.04 1.27 -6.73Q0.75 -7.43 0.75 -8.55Q0.75 -10.22 1.96 -11.16Q3.16 -12.1 5.1 -12.1Q7.07 -12.1 8.28 -11.16Q9.49 -10.22 9.57 -8.53H6.43Q6.39 -9.11 6 -9.44Q5.61 -9.78 5 -9.78Q4.47 -9.78 4.15 -9.49Q3.83 -9.21 3.83 -8.69Q3.83 -8.11 4.37 -7.79Q4.91 -7.46 6.07 -7.09Q7.23 -6.7 7.95 -6.34Q8.67 -5.98 9.2 -5.3Q9.72 -4.62 9.72 -3.55Q9.72 -2.53 9.21 -1.7Q8.69 -0.87 7.7 -0.37Q6.72 0.12 5.37 0.12Q4.06 0.12 3.03 -0.31Q1.99 -0.73 1.37 -1.56Q0.75 -2.4 0.71 -3.57Z M16.57 -11.93V-4.79Q16.57 -3.72 17.09 -3.15Q17.62 -2.57 18.64 -2.57Q19.66 -2.57 20.2 -3.15Q20.75 -3.72 20.75 -4.79V-11.93H23.65V-4.81Q23.65 -3.21 22.97 -2.11Q22.29 -1 21.15 -0.44Q20 0.12 18.59 0.12Q17.18 0.12 16.06 -0.43Q14.95 -0.99 14.3 -2.1Q13.66 -3.21 13.66 -4.81V-11.93Z M32.6 -4.28H30.8V0H27.89V-11.93H32.6Q34.03 -11.93 35.02 -11.44Q36 -10.95 36.5 -10.08Q36.99 -9.21 36.99 -8.09Q36.99 -7.06 36.51 -6.2Q36.04 -5.34 35.05 -4.81Q34.07 -4.28 32.6 -4.28ZM34.03 -8.09Q34.03 -8.81 33.62 -9.2Q33.22 -9.59 32.38 -9.59H30.8V-6.6H32.38Q33.22 -6.6 33.62 -6.99Q34.03 -7.38 34.03 -8.09Z M45.41 -4.28H43.61V0H40.7V-11.93H45.41Q46.84 -11.93 47.83 -11.44Q48.81 -10.95 49.3 -10.08Q49.8 -9.21 49.8 -8.09Q49.8 -7.06 49.32 -6.2Q48.85 -5.34 47.86 -4.81Q46.87 -4.28 45.41 -4.28ZM46.84 -8.09Q46.84 -8.81 46.43 -9.2Q46.02 -9.59 45.19 -9.59H43.61V-6.6H45.19Q46.02 -6.6 46.43 -6.99Q46.84 -7.38 46.84 -8.09Z M53.02 -6Q53.02 -7.75 53.84 -9.15Q54.67 -10.54 56.07 -11.32Q57.47 -12.1 59.15 -12.1Q60.84 -12.1 62.24 -11.32Q63.64 -10.54 64.45 -9.15Q65.26 -7.75 65.26 -6Q65.26 -4.25 64.44 -2.85Q63.62 -1.45 62.23 -0.66Q60.84 0.12 59.15 0.12Q57.47 0.12 56.07 -0.66Q54.67 -1.45 53.84 -2.85Q53.02 -4.25 53.02 -6ZM62.3 -6Q62.3 -7.58 61.44 -8.53Q60.58 -9.47 59.15 -9.47Q57.71 -9.47 56.85 -8.53Q55.99 -7.6 55.99 -6Q55.99 -4.42 56.85 -3.48Q57.71 -2.53 59.15 -2.53Q60.58 -2.53 61.44 -3.49Q62.3 -4.44 62.3 -6Z M75.16 0 72.68 -4.5H71.98V0H69.07V-11.93H73.95Q75.36 -11.93 76.36 -11.44Q77.35 -10.95 77.84 -10.09Q78.34 -9.23 78.34 -8.18Q78.34 -6.99 77.67 -6.05Q76.99 -5.12 75.69 -4.73L78.44 0ZM71.98 -6.56H73.78Q74.58 -6.56 74.98 -6.95Q75.38 -7.34 75.38 -8.06Q75.38 -8.74 74.98 -9.13Q74.58 -9.52 73.78 -9.52H71.98Z M90.94 -11.93V-9.61H87.78V0H84.87V-9.61H81.71V-11.93Z M113.92 -11.93V0H111.02V-7.16L108.35 0H106L103.31 -7.17V0H100.41V-11.93H103.84L107.19 -3.67L110.51 -11.93Z M128.45 -11.93 124.32 -3.94V0H121.41V-3.94L117.28 -11.93H120.58L122.89 -6.94L125.18 -11.93Z M154.05 -11.93 150.94 0H147.42L145.51 -7.85L143.54 0H140.02L137 -11.93H140.11L141.82 -3.25L143.95 -11.93H147.14L149.18 -3.25L150.92 -11.93Z M157.22 -6Q157.22 -7.75 158.04 -9.15Q158.86 -10.54 160.27 -11.32Q161.67 -12.1 163.35 -12.1Q165.04 -12.1 166.44 -11.32Q167.84 -10.54 168.65 -9.15Q169.46 -7.75 169.46 -6Q169.46 -4.25 168.64 -2.85Q167.82 -1.45 166.43 -0.66Q165.04 0.12 163.35 0.12Q161.67 0.12 160.27 -0.66Q158.86 -1.45 158.04 -2.85Q157.22 -4.25 157.22 -6ZM166.5 -6Q166.5 -7.58 165.64 -8.53Q164.78 -9.47 163.35 -9.47Q161.91 -9.47 161.05 -8.53Q160.19 -7.6 160.19 -6Q160.19 -4.42 161.05 -3.48Q161.91 -2.53 163.35 -2.53Q164.78 -2.53 165.64 -3.49Q166.5 -4.44 166.5 -6Z M179.36 0 176.87 -4.5H176.18V0H173.27V-11.93H178.15Q179.56 -11.93 180.55 -11.44Q181.55 -10.95 182.04 -10.09Q182.54 -9.23 182.54 -8.18Q182.54 -6.99 181.86 -6.05Q181.19 -5.12 179.88 -4.73L182.64 0ZM176.18 -6.56H177.98Q178.78 -6.56 179.18 -6.95Q179.58 -7.34 179.58 -8.06Q179.58 -8.74 179.18 -9.13Q178.78 -9.52 177.98 -9.52H176.18Z M193.47 0 189.46 -5.27V0H186.55V-11.93H189.46V-6.7L193.44 -11.93H196.86L192.23 -6.09L197.03 0Z" fill="url(#tx)"/>
   </g>
 </svg>

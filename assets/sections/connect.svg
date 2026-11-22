@@ -1,21 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 44" width="400" height="44" role="img" aria-labelledby="t">
   <title id="t">Connect With Me</title>
   <defs>
-    <linearGradient id="tx" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="192.27" y2="0">
-      <stop offset="0" stop-color="#D97706"/><stop offset="1" stop-color="#F59E0B"/>
+    <linearGradient id="tx" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="128.18" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#EA580C"/><stop offset="0.33" stop-color="#F59E0B"/><stop offset="0.66" stop-color="#E11D48"/><stop offset="1" stop-color="#EA580C"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="128.18 0" dur="3.2s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="ll" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="82" y2="0">
-      <stop offset="0" stop-color="#D97706" stop-opacity="0"/><stop offset="1" stop-color="#D97706"/>
+    <linearGradient id="ll" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="118" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#EA580C"/><stop offset="0.33" stop-color="#F59E0B"/><stop offset="0.66" stop-color="#E11D48"/><stop offset="1" stop-color="#EA580C"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="110 0" dur="3.2s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="rl" gradientUnits="userSpaceOnUse" x1="318" y1="0" x2="392" y2="0">
-      <stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    <linearGradient id="rl" gradientUnits="userSpaceOnUse" x1="282" y1="0" x2="392" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#EA580C"/><stop offset="0.33" stop-color="#F59E0B"/><stop offset="0.66" stop-color="#E11D48"/><stop offset="1" stop-color="#EA580C"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="-110 0" dur="3.2s" repeatCount="indefinite"/>
     </linearGradient>
+    <linearGradient id="fl" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="76" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.7" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="fr" gradientUnits="userSpaceOnUse" x1="324" y1="0" x2="392" y2="0">
+      <stop offset="0.3" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="ml" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="44"><rect x="8" y="0" width="68" height="44" fill="url(#fl)"/></mask>
+    <mask id="mr" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="44"><rect x="324" y="0" width="68" height="44" fill="url(#fr)"/></mask>
   </defs>
   <g shape-rendering="geometricPrecision">
-    <rect x="8" y="21" width="68" height="2" fill="url(#ll)"/>
-    <rect x="324" y="21" width="68" height="2" fill="url(#rl)"/>
-    <path d="M78 18 L82 22 L78 26 L74 22 Z" fill="#D97706"/>
-    <path d="M322 18 L326 22 L322 26 L318 22 Z" fill="#F59E0B"/>
-    <path transform="translate(103.87 27.95)" d="M6.56 -12.07Q8.69 -12.07 10.2 -10.95Q11.71 -9.83 12.22 -7.89H9.03Q8.67 -8.64 8.02 -9.03Q7.36 -9.42 6.53 -9.42Q5.19 -9.42 4.35 -8.48Q3.52 -7.55 3.52 -5.98Q3.52 -4.42 4.35 -3.49Q5.19 -2.55 6.53 -2.55Q7.36 -2.55 8.02 -2.94Q8.67 -3.33 9.03 -4.08H12.22Q11.71 -2.14 10.2 -1.03Q8.69 0.09 6.56 0.09Q4.83 0.09 3.46 -0.69Q2.09 -1.46 1.33 -2.84Q0.56 -4.22 0.56 -5.98Q0.56 -7.75 1.33 -9.14Q2.09 -10.52 3.46 -11.3Q4.83 -12.07 6.56 -12.07Z M15.71 -6Q15.71 -7.75 16.54 -9.15Q17.36 -10.54 18.77 -11.32Q20.17 -12.1 21.85 -12.1Q23.54 -12.1 24.94 -11.32Q26.34 -10.54 27.15 -9.15Q27.95 -7.75 27.95 -6Q27.95 -4.25 27.14 -2.85Q26.32 -1.45 24.93 -0.66Q23.54 0.12 21.85 0.12Q20.17 0.12 18.77 -0.66Q17.36 -1.45 16.54 -2.85Q15.71 -4.25 15.71 -6ZM25 -6Q25 -7.58 24.14 -8.53Q23.28 -9.47 21.85 -9.47Q20.41 -9.47 19.55 -8.53Q18.69 -7.6 18.69 -6Q18.69 -4.42 19.55 -3.48Q20.41 -2.53 21.85 -2.53Q23.28 -2.53 24.14 -3.49Q25 -4.44 25 -6Z M42.45 0H39.54L34.68 -7.36V0H31.77V-11.93H34.68L39.54 -4.54V-11.93H42.45Z M57.43 0H54.52L49.66 -7.36V0H46.75V-11.93H49.66L54.52 -4.54V-11.93H57.43Z M64.65 -9.61V-7.19H68.54V-4.95H64.65V-2.33H69.05V0H61.74V-11.93H69.05V-9.61Z M78.64 -12.07Q80.77 -12.07 82.28 -10.95Q83.79 -9.83 84.3 -7.89H81.11Q80.75 -8.64 80.1 -9.03Q79.44 -9.42 78.61 -9.42Q77.27 -9.42 76.43 -8.48Q75.6 -7.55 75.6 -5.98Q75.6 -4.42 76.43 -3.49Q77.27 -2.55 78.61 -2.55Q79.44 -2.55 80.1 -2.94Q80.75 -3.33 81.11 -4.08H84.3Q83.79 -2.14 82.28 -1.03Q80.77 0.09 78.64 0.09Q76.91 0.09 75.54 -0.69Q74.17 -1.46 73.41 -2.84Q72.64 -4.22 72.64 -5.98Q72.64 -7.75 73.41 -9.14Q74.17 -10.52 75.54 -11.3Q76.91 -12.07 78.64 -12.07Z M96.87 -11.93V-9.61H93.71V0H90.81V-9.61H87.64V-11.93Z M122.76 -11.93 119.65 0H116.13L114.23 -7.85L112.26 0H108.74L105.71 -11.93H108.82L110.54 -3.25L112.66 -11.93H115.86L117.9 -3.25L119.63 -11.93Z M129.33 -11.93V0H126.42V-11.93Z M142.22 -11.93V-9.61H139.06V0H136.16V-9.61H132.99V-11.93Z M156.22 -11.93V0H153.31V-4.91H148.79V0H145.89V-11.93H148.79V-7.26H153.31V-11.93Z M179.83 -11.93V0H176.93V-7.16L174.26 0H171.91L169.22 -7.17V0H166.32V-11.93H169.75L173.1 -3.67L176.42 -11.93Z M187.03 -9.61V-7.19H190.92V-4.95H187.03V-2.33H191.43V0H184.12V-11.93H191.43V-9.61Z" fill="url(#tx)"/>
+    <rect x="8" y="21" width="68" height="2" fill="url(#ll)" mask="url(#ml)"/>
+    <rect x="324" y="21" width="68" height="2" fill="url(#rl)" mask="url(#mr)"/>
+    <g transform="translate(78 22)"><path d="M0 -4 L4 0 L0 4 L-4 0Z" fill="#EA580C"><animate attributeName="fill" values="#EA580C;#F59E0B;#E11D48;#EA580C" dur="3.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="1;1.5;1" dur="1.6s" repeatCount="indefinite"/></path></g>
+    <g transform="translate(322 22)"><path d="M0 -4 L4 0 L0 4 L-4 0Z" fill="#E11D48"><animate attributeName="fill" values="#E11D48;#EA580C;#F59E0B;#E11D48" dur="3.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="1.5;1;1.5" dur="1.6s" repeatCount="indefinite"/></path></g>
+    <path transform="translate(103.86 27.95)" d="M6.56 -12.07Q8.69 -12.07 10.2 -10.95Q11.71 -9.83 12.22 -7.89H9.03Q8.67 -8.64 8.02 -9.03Q7.36 -9.42 6.53 -9.42Q5.19 -9.42 4.35 -8.48Q3.52 -7.55 3.52 -5.98Q3.52 -4.42 4.35 -3.49Q5.19 -2.55 6.53 -2.55Q7.36 -2.55 8.02 -2.94Q8.67 -3.33 9.03 -4.08H12.22Q11.71 -2.14 10.2 -1.03Q8.69 0.09 6.56 0.09Q4.83 0.09 3.46 -0.69Q2.09 -1.46 1.33 -2.84Q0.56 -4.22 0.56 -5.98Q0.56 -7.75 1.33 -9.14Q2.09 -10.52 3.46 -11.3Q4.83 -12.07 6.56 -12.07Z M15.71 -6Q15.71 -7.75 16.54 -9.15Q17.36 -10.54 18.77 -11.32Q20.17 -12.1 21.85 -12.1Q23.54 -12.1 24.94 -11.32Q26.34 -10.54 27.15 -9.15Q27.95 -7.75 27.95 -6Q27.95 -4.25 27.14 -2.85Q26.32 -1.45 24.93 -0.66Q23.54 0.12 21.85 0.12Q20.17 0.12 18.77 -0.66Q17.36 -1.45 16.54 -2.85Q15.71 -4.25 15.71 -6ZM25 -6Q25 -7.58 24.14 -8.53Q23.28 -9.47 21.85 -9.47Q20.41 -9.47 19.55 -8.53Q18.69 -7.6 18.69 -6Q18.69 -4.42 19.55 -3.48Q20.41 -2.53 21.85 -2.53Q23.28 -2.53 24.14 -3.49Q25 -4.44 25 -6Z M42.45 0H39.54L34.68 -7.36V0H31.77V-11.93H34.68L39.54 -4.54V-11.93H42.45Z M57.43 0H54.52L49.66 -7.36V0H46.75V-11.93H49.66L54.52 -4.54V-11.93H57.43Z M64.65 -9.61V-7.19H68.54V-4.95H64.65V-2.33H69.05V0H61.74V-11.93H69.05V-9.61Z M78.64 -12.07Q80.77 -12.07 82.28 -10.95Q83.79 -9.83 84.3 -7.89H81.11Q80.75 -8.64 80.1 -9.03Q79.44 -9.42 78.61 -9.42Q77.27 -9.42 76.43 -8.48Q75.6 -7.55 75.6 -5.98Q75.6 -4.42 76.43 -3.49Q77.27 -2.55 78.61 -2.55Q79.44 -2.55 80.1 -2.94Q80.75 -3.33 81.11 -4.08H84.3Q83.79 -2.14 82.28 -1.03Q80.77 0.09 78.64 0.09Q76.91 0.09 75.54 -0.69Q74.17 -1.46 73.41 -2.84Q72.64 -4.22 72.64 -5.98Q72.64 -7.75 73.41 -9.14Q74.17 -10.52 75.54 -11.3Q76.91 -12.07 78.64 -12.07Z M96.87 -11.93V-9.61H93.71V0H90.81V-9.61H87.64V-11.93Z M122.76 -11.93 119.65 0H116.13L114.23 -7.85L112.26 0H108.74L105.71 -11.93H108.82L110.54 -3.25L112.66 -11.93H115.86L117.9 -3.25L119.63 -11.93Z M129.33 -11.93V0H126.42V-11.93Z M142.22 -11.93V-9.61H139.06V0H136.16V-9.61H132.99V-11.93Z M156.22 -11.93V0H153.31V-4.91H148.79V0H145.89V-11.93H148.79V-7.26H153.31V-11.93Z M179.83 -11.93V0H176.93V-7.16L174.26 0H171.91L169.22 -7.17V0H166.32V-11.93H169.75L173.1 -3.67L176.42 -11.93Z M187.03 -9.61V-7.19H190.92V-4.95H187.03V-2.33H191.43V0H184.12V-11.93H191.43V-9.61Z" fill="url(#tx)"/>
   </g>
 </svg>
